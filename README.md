@@ -25,7 +25,6 @@ A trivial "Hello, world" program that uses a library package.
 
 The [hello](hello/) command covers:
 
-* The basic form of an executable command
 * Importing packages (from the standard library and the local repository)
 * Printing strings ([fmt](//golang.org/pkg/fmt/))
 * Command-line flags ([flag](//golang.org/pkg/flag/))
